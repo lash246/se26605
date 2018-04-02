@@ -1,5 +1,5 @@
 <?php
-$size = mt_rand(5, 10);
+$size = mt_rand(10, 10);
 $table = "<table>\n";
 for ($rows = 1; $rows <= $size; $rows++)
 {
