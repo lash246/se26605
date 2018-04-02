@@ -44,7 +44,7 @@ td {
 </head>
 
 <body>
-<table border='5'> /* Thickness of the border outler layer */
+<table border='5'> 
     <?=$table?>
 </table>
 </body>
